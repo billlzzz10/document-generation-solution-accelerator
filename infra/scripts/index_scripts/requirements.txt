@@ -11,3 +11,4 @@ azure-keyvault-secrets==4.9.0
 pandas==2.3.0
 # pymssql
 datetime
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability

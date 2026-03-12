@@ -15,7 +15,7 @@ chardet
 azure-keyvault-secrets
 coverage
 flake8==7.3.0
-black==25.1.0
+black==26.3.1
 autoflake==2.3.1
 isort==6.0.1
 azure-core>=1.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
